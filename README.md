@@ -5,7 +5,7 @@ A 14 year old South African software developer that spends their time making dum
 I will live and die using Arch Linux
 
 ### What I'm working on
- I have one single private repo, and its for an app called "DumbStuff" (I will not futher elaborate 🙂‍↔️).
+ I have one single private repo, and its for an app called "DumbStuff" (I will not futher elaborate).
 
 ### Languages I know
  - Dart (Flutter)
