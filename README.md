@@ -16,5 +16,5 @@ I will live and die using Arch Linux
 
 ### Languages I want to learn
  - Python (Autohotkey doesnt exist on Linux 😭😭😭)
- - C++ (As a flex 🔥🔥🔥)
+ - C++ (To make Geometry Dash mods (And as a flex 🔥🔥🔥) )
  - HTML, CSS and JS (I want my own website to showcase my silly apps)
