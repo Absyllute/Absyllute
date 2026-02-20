@@ -4,6 +4,10 @@
 A 14 year old South African software developer that spends their time making dumb apps with Dart, Kotlin and silly games with Unity.
 I will live and die using Arch Linux
 
+### Where to reach me out on
+Discord (@absyllute)
+Email (absyllute@gmail.com (i dont fw email) )
+
 ### What I'm working on
  I have one single private repo, and its for an app called "DumbStuff" (I will not futher elaborate).
 
