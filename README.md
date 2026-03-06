@@ -1,8 +1,8 @@
 ## Hi, I'm Λbsyllute!
 
 ### About Me
-A 14 year old South African software developer that spends their time making dumb apps with Dart, Kotlin and silly games with Unity.
-I will live and die using Arch Linux
+A 14 year old (👶) South African (🇿🇦) software developer that spends their time making dumb apps with Flutter and silly games with Unity.
+I will live and die using Arch Linux (Hyprland)
 
 ### Where to reach me out on
  - Discord (@absyllute)
