@@ -9,7 +9,7 @@ I will live and die using Arch Linux
  - Email (absyllute@gmail.com (i dont fw email) )
 
 ### What I'm working on
- I have one single private repo, and its for an app called "DumbStuff" (I will not futher elaborate).
+ I have one single private repo, and its for an app called aNotes :).
 
 ### Languages I know
  - Dart (Flutter)
