@@ -2,7 +2,6 @@
 
 ### About Me
 A 14 year old (👶) South African (🇿🇦) software developer that spends their time making dumb apps with Flutter and silly games with Unity.
-I will live and die using Arch Linux (Hyprland)
 
 ### Where to reach me out on
  - Discord (@absyllute)
@@ -22,3 +21,5 @@ A little notes and to-do list app called aNotes (a for Λbsyllute)
  - Python (Autohotkey doesnt exist on Linux 😭😭😭)
  - C++ (To make Geometry Dash mods (And as a flex 🔥🔥🔥) )
  - HTML, CSS and JS (I want my own website to showcase my silly apps)
+
+(also i use arch btw (hyprland btw) )
