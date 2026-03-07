@@ -9,7 +9,7 @@ I will live and die using Arch Linux (Hyprland)
  - Email (absyllute@gmail.com (i dont fw email) )
 
 ### What I'm working on
- I have one single private repo, and its for an app called aNotes :).
+A little notes and to-do list app called aNotes (a for Λbsyllute)
 
 ### Languages I know
  - Dart (Flutter)
