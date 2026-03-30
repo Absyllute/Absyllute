@@ -2,14 +2,14 @@
 
 ### About Me
 A 14 year old (👶) South African (🇿🇦) software developer that spends their time making dumb apps with Flutter and silly games with Unity.
-I don't gave enough time to commit on weekdays (School 💔)
+I don't have enough time to write code on weekdays (School 💔)
 
 ### Where to reach me out on
  - Discord (@absyllute)
  - Email (absyllute@gmail.com (i dont fw email) )
 
 ### What I'm working on
-A little notes and to-do list app called aNotes (a for Λbsyllute)
+Learning Qt and QML
 
 ### Languages I know
  - Dart (Flutter)
