@@ -11,12 +11,16 @@ I don't have enough time to write code on weekdays (School 💔)
 ### What I'm working on
 Learning Qt and QML
 
+### What I want to build in the future
+A desktop environment with macOS levels of polish, but still have Arch Linux levels of control.
+( I wanna call it aDE (Absyllute's Desktop Environment) but it sounds too similar to KDE )
+
 ### Languages I know
  - Dart (Flutter)
  - C# (Unity)
 
 ### Languages I am learning
- - Kotlin (Android app dev (Jetpack Compose btw))
+- Python
 
 ### Languages I want to learn
  - Python (Autohotkey doesnt exist on Linux 😭😭😭)
