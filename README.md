@@ -4,7 +4,7 @@
 A 14 year old (👶) South African (🇿🇦) software developer that spends their time making dumb apps with Flutter and silly games with Unity.
 I don't have enough time to write code on weekdays (School 💔)
 
-### Where to reach me out on
+### How To Contact Me
  - Discord (@absyllute)
  - Email (absyllute@gmail.com (i dont fw email) )
 
