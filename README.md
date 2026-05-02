@@ -15,9 +15,12 @@ If you dont put it down, it'll lock all your social media apps for the length of
 
 #### ( started project on 11 April 2026 @ 17:38 (SAST) )
 
-### What I want to build in the future
+### What I'm learning rn
+rust.
+
+### What I plan on building in the future
 A desktop environment with macOS levels of polish, Arch Linux levels of control.
-( I wanna call it aDE (Absyllute's Desktop Environment) but it sounds too similar to KDE )
+(I wanna call it aDE (Absyllute's Desktop Environment) but it sounds too similar to KDE)
 
 ### Languages I know
  - Dart (Flutter)
@@ -25,7 +28,8 @@ A desktop environment with macOS levels of polish, Arch Linux levels of control.
 
 ### Languages I want to learn
  - Python (Autohotkey doesnt exist on Linux 😭😭😭)
- - C++ (To make Geometry Dash mods (And as a flex 🔥🔥🔥) )
- - HTML, CSS and JS (I want my own website to showcase my silly apps)
+ - C++ (To make Geometry Dash mods)
+ - HTML, CSS and JS (I want my own website to showcase my apps)
+ - Rust (To make TUI programs)
 
 (also i use arch btw (hyprland btw) )
