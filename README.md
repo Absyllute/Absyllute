@@ -1,7 +1,7 @@
 ## Hi, I'm Λbsyllute!
 
 ### About Me
-A 14 year old (👶) South African (🇿🇦) software developer that spends their time making dumb apps with Flutter and silly games with Unity.
+A 14 year old South African (🇿🇦) software developer that spends their time making apps with Flutter and games with Unity.
 I don't have enough time to write code on weekdays (School 💔)
 
 ### How To Contact Me
@@ -15,8 +15,11 @@ If you dont put it down, it'll lock all your social media apps for the length of
 
 #### ( started project on 11 April 2026 @ 17:38 (SAST) )
 
-### What I'm learning rn
+### What I'm learning right now
 rust.
+
+### What do I do when I'm bored?
+I sometimes go find random people's repos, commit and send pull requests if I think their repo is interesting :)
 
 ### What I plan on building in the future
 A desktop environment with macOS levels of polish, Arch Linux levels of control.
