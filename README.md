@@ -2,7 +2,7 @@
 
 ### About Me
  - A 14 year old South African (🇿🇦) software developer that spends their time making apps with Flutter and games with Unity.
- - 
+  
  - It's kinda hard to get anything useful done (commits) on the weekdays because of school :(
 
 ### How To Contact Me
