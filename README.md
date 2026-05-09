@@ -1,8 +1,9 @@
 ## Hi, I'm Λbsyllute!
 
 ### About Me
-A 14 year old South African (🇿🇦) software developer that spends their time making apps with Flutter and games with Unity.
-I don't have enough time to write code on weekdays (School 💔)
+ - A 14 year old South African (🇿🇦) software developer that spends their time making apps with Flutter and games with Unity.
+ - 
+ - It's kinda hard to get anything useful done (commits) on the weekdays because of school :(
 
 ### How To Contact Me
  - Discord (@absyllute)
