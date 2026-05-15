@@ -10,14 +10,14 @@
  - Email (absyllute@gmail.com (i dont fw email) )
 
 ### What I'm working on
+I'm busy with exams right now 😔
+
+### Side Projects
 A focus app called "Lock In". You set a timer, and put your phone face-down.
 If you pick up you phone whilethe timer is running, you'll have 8 seconds to put it back down.
 If you dont put it down, it'll lock all your social media apps for the length of your timer, or until you finish the timer.
 
 #### ( started project on 11 April 2026 @ 17:38 (SAST) )
-
-### What I'm learning right now
-rust.
 
 ### What do I do when I'm bored?
 I sometimes go find random people's repos, commit and send pull requests if I think their repo is interesting :)
