@@ -19,9 +19,6 @@ If you dont put it down, it'll lock all your social media apps for the length of
 
 #### ( started project on 11 April 2026 @ 17:38 (SAST) )
 
-### What do I do when I'm bored?
-I sometimes go find random people's repos, commit and send pull requests if I think their repo is interesting :)
-
 ### What I plan on building in the future
 A desktop environment with macOS levels of polish, Arch Linux levels of control.
 (I wanna call it aDE (Absyllute's Desktop Environment) but it sounds too similar to KDE)
