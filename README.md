@@ -1,7 +1,7 @@
 ## Hi, I'm Λbsyllute!
 
 ### About Me
- - A 14 year old South African (🇿🇦) software developer
+ - A South African (🇿🇦) software developer
    
 ### How To Contact Me
  - Discord (@absyllute)
