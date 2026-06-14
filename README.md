@@ -1,7 +1,7 @@
 ## Hi, I'm Λbsyllute!
 
 ### About Me
- - A South African (🇿🇦) software developer
+ - My country fumbled the opening game at the World Cup 👍️
    
 ### How To Contact Me
  - Discord (@absyllute)
