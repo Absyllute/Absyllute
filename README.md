@@ -8,7 +8,7 @@
  - Email (absyllute@gmail.com (I don't check my email often))
 
 ### What I'm working on
-It's exam season right now 😔
+Figuring how to block apps with Flutter (I'm on my **THIRD** dependency now 🫩️)
 
 ### Languages I know
  - Dart (Flutter)
