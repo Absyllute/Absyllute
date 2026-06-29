@@ -18,11 +18,7 @@ Figuring how to block apps with Flutter (I'm on my **THIRD** dependency now 🫩
 A focus app called "Lock In". You set a timer, and put your phone face-down.
 If you pick up you phone while the timer is running, you'll have 10 seconds to put it back down.
 If you dont put it down, it'll lock all your social media apps until you finish your session.
-#### (started project on 11 April 2026 @ 17:38 (SAST))
-
-### What I plan on building in the future
-A desktop environment with macOS levels of polish, Arch Linux levels of control.
-(I wanna call it aDE (Absyllute's Desktop Environment))
+#### (started project on 11 April 2026)
 
 ### Languages I want to learn
  - Python (Autohotkey doesnt exist on Linux 😭😭😭)
