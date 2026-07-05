@@ -25,7 +25,7 @@ If you dont put it down, it'll lock all your social media apps until you finish 
 #### (started project on 11 April 2026)
 
 ### Languages I want to learn
- - ![Static Badge](https://img.shields.io/badge/Python-e2b839?style=plastic&logo=python&logoColor=ffffff) Autohotkey doesnt exist on Linux 😭😭😭
+ - ![Static Badge](https://img.shields.io/badge/Python-e2b839?style=plastic&logo=python&logoColor=ffffff) Manim is kina cool actually 🥹
  - ![Static Badge](https://img.shields.io/badge/C%2B%2B-8080ff?style=plastic&logo=cplusplus&logoColor=ffffff&color=%2300599C) (To make Geometry Dash mods)
  - ![Static Badge](https://img.shields.io/badge/HTML-8080ff?style=plastic&logo=html5&logoColor=ffffff&color=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-8080ff?style=plastic&logo=css&logoColor=ffffff&color=%23663399)  ![Static Badge](https://img.shields.io/badge/JavaScript-8080ff?style=plastic&logo=javascript&logoColor=ffffff&color=%23F7DF1E)
  (I want my own website to showcase my apps)
