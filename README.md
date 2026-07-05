@@ -8,7 +8,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 ![Static Badge](https://img.shields.io/badge/email-8080ff?style=for-the-badge&logo=gmail&logoColor=ffffff&color=%23EA4335&link=mailto%3Aabsyllute%40gmail.com)
 
 ### What I'm working on
-Figuring how to block apps with Flutter (I'm on my **THIRD** dependency now 🫩️)
+Figuring how to block apps with Flutter while also learning how to animate with Pythin using Manim
 
 ### Stuff I use
 ![Static Badge](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=ffffff&color=02569B)
