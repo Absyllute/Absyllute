@@ -1,7 +1,9 @@
 ## Hi, I'm Λbsyllute!
 
 ### About Me
-Software Engineer focusing mainly on mobile app development with Flutter while occasionaly trying out languages like Rust and C++. I first started programming around 2021 - 2022 with HTML at age 10 🥀, but only really locked in from late 2024 - {current year}
+Software Engineer focusing mainly on mobile app development with Flutter while occasionaly trying out languages like Rust and C++. I first started programming around 2021 - 2022 with HTML at age 10 🥀, but only really locked in from late 2024 - {current year}.
+
+I'm also a profesional non-vibe coder (whatever the opposite of vibe-coding is)
    
 ### Contact Me
 ![Static Badge](https://img.shields.io/badge/Discord-8080ff?style=for-the-badge&logo=discord&logoColor=ffffff&color=%235865F2&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F1442541076870070386)
@@ -16,9 +18,7 @@ Learning Kotlin and Jetpack Compose
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-ffffff?style=for-the-badge&logo=archlinux&logoColor=ffffff&color=1793D1)
 
 ### Side Projects
-A focus app called "Lock In". You set a timer, and put your phone face-down.
-If you pick up you phone while the timer is running, you'll have 10 seconds to put it back down.
-If you dont put it down, it'll lock all your social media apps until you finish your session.
+A focus app called "Lock In". You set a timer, and put your phone face-down (That's all I'm saying).
 #### (started project on 11 April 2026)
 
 ### Languages I want to learn
