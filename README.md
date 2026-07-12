@@ -14,9 +14,6 @@ Learning Kotlin and Jetpack Compose
 ![Static Badge](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=ffffff&color=02569B)
 ![Static Badge](https://img.shields.io/badge/dart-ffffff?style=for-the-badge&logo=dart&logoColor=ffffff&color=0175C2)
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-ffffff?style=for-the-badge&logo=archlinux&logoColor=ffffff&color=1793D1)
-![Static Badge](https://img.shields.io/badge/Hyprland-8080ff?style=for-the-badge&logo=hyprland&logoColor=ffffff&color=%2358E1FF)
-![Static Badge](https://img.shields.io/badge/GIMP-%238C8073?style=for-the-badge&logo=gimp&logoColor=ffffff&labelColor=%238C8073)
-![Static Badge](https://img.shields.io/badge/Kdenlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=ffffff)
 
 ### Side Projects
 A focus app called "Lock In". You set a timer, and put your phone face-down.
