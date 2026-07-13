@@ -1,21 +1,40 @@
 ## Hi, I'm Λbsyllute!
 
 ### About Me
-Software Engineer focusing mainly on mobile app development with Flutter while occasionaly trying out languages like Rust and C++. I first started programming around 2021 - 2022 with HTML at age 10 🥀, but only really locked in from late 2024 - {current year}.
+Software Engineer focusing mainly on mobile app development with Flutter while occasionaly trying out languages like Rust and C++. I first started programming around 2021 - 2022 with HTML at age 10 🥀, but only really locked in from late 2024 - {current year}. Im currently learning Kotlin and Jetpack Compose
 
 I'm also a profesional non-vibe coder (whatever the opposite of vibe-coding is)
    
-### Contact Me
-![Static Badge](https://img.shields.io/badge/Discord-8080ff?style=for-the-badge&logo=discord&logoColor=ffffff&color=%235865F2&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F1442541076870070386)
-![Static Badge](https://img.shields.io/badge/email-8080ff?style=for-the-badge&logo=gmail&logoColor=ffffff&color=%23EA4335&link=mailto%3Aabsyllute%40gmail.com)
+<p align="center"> <b> Contact Me: </b></p>
 
-### What I'm working on
-Learning Kotlin and Jetpack Compose
+<p align="center">
+  <a href="mailto:absyllute@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://discord.com/users/1442541076870070386">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
-### Stuff I use
-![Static Badge](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=ffffff&color=02569B)
-![Static Badge](https://img.shields.io/badge/dart-ffffff?style=for-the-badge&logo=dart&logoColor=ffffff&color=0175C2)
-![Static Badge](https://img.shields.io/badge/Arch%20Linux-ffffff?style=for-the-badge&logo=archlinux&logoColor=ffffff&color=1793D1)
+<p align="center"> <b> Stuff I use </b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,androidstudio,vscode,git,github,idea,vscodium,vim" />
+  </a>
+</p>
+
+<p align="center">
+   <b>
+      Languages / Frameworks I use
+   </b>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,md" />
+  </a>
+</p>
 
 ### Side Projects
 A focus app called "Lock In". You set a timer, and put your phone face-down (That's all I'm saying).
