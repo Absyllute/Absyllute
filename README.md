@@ -1,4 +1,8 @@
-<h1 align="center"> Hi, I'm Λbsyllute! </h1>
+<h1 align="center"> Hi, I'm Λbsyllute! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+
+
+
+
 
 <h2 align="center"> About Me </h2>
 <p align="center">
