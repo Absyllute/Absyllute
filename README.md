@@ -1,11 +1,12 @@
-## Hi, I'm Λbsyllute!
+<h1 align="center"> Hi, I'm Λbsyllute! </h1>
 
-### About Me
+<h2 align="center"> About Me </h2>
+<p align="center">
 Software Engineer focusing mainly on mobile app development with Flutter while occasionaly trying out languages like Rust and C++. I first started programming around 2021 - 2022 with HTML at age 10 🥀, but only really locked in from late 2024 - {current year}. Im currently learning Kotlin and Jetpack Compose
-
 I'm also a profesional non-vibe coder (whatever the opposite of vibe-coding is)
+</p>
    
-<p align="center"> <b> Contact Me: </b></p>
+<h2 align="center"> Contact Me: </h2>
 
 <p align="center">
   <a href="mailto:absyllute@gmail.com">
@@ -16,7 +17,7 @@ I'm also a profesional non-vibe coder (whatever the opposite of vibe-coding is)
   </a>
 </p>
 
-<p align="center"> <b> Stuff I use </b></p>
+<h2 align="center"> Stuff I use </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,11 +25,7 @@ I'm also a profesional non-vibe coder (whatever the opposite of vibe-coding is)
   </a>
 </p>
 
-<p align="center">
-   <b>
-      Languages / Frameworks I use
-   </b>
-</p>
+<h2 align="center"> Languages / Frameworks I use </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
