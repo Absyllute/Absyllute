@@ -1,7 +1,6 @@
-<h1 align="center"> Hi, I'm Λbsyllute! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&customColorList=14&text=%CE%9Bbsyllute&animation=fadeIn&descAlignY=79&reversal=false" alt="Λbsyllute Banner" />
+</p>
 
 
 <h2 align="center"> About Me </h2>
