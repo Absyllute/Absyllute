@@ -35,6 +35,12 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
   </a>
 </p>
 
+<h2 align="center"> Cool Stats! </h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=absyllute&layout=compact&theme=radical&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=absyllute&theme=dark&border_radius=12&background=0d1117&border=ffffff"/>
+</p>
+
 ### Side Projects
 A focus app called "Lock In". You set a timer, and put your phone face-down (That's all I'm saying).
 #### (started project on 11 April 2026)
