@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&customColorList=14&text=%CE%9Bbsyllute&animation=fadeIn&descAlignY=79&reversal=false" alt="Λbsyllute Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&customColorList=14&text=%CE%9Bbsyllute&desc=%22I%20use%20arch%20btw%22&descAlignY=80&reversal=true&animation=twinkling" alt="Λbsyllute Banner" />
 </p>
 
 
