@@ -31,7 +31,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,md" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,md" />
   </a>
 </p>
 
