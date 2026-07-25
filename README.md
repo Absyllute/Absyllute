@@ -10,7 +10,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <h2 align="center"> What am I working on? </h2>
 <p align="center">
-  I started learning how to make Minecraft mods for the Fabric modloader with Java... It's pretty cool i guess
+  figuring out how t run an entire SMP server 🥀
 </p>
    
 <h2 align="center"> Contact Me: </h2>
