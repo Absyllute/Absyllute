@@ -10,7 +10,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <h2 align="center"> What am I working on? </h2>
 <p align="center">
-  figuring out how t run an entire SMP server 🥀
+  figuring out how to run an entire SMP Minecraft server 🥀
 </p>
    
 <h2 align="center"> Contact Me: </h2>
