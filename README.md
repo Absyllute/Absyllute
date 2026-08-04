@@ -22,6 +22,9 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
   <a href="https://discord.com/users/1442541076870070386">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+  <a href="https://discord.com/users/1336019718644957195">
+    <img src="https://img.shields.io/badge/Discord-Alt-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <h2 align="center"> Stuff I use </h2>
