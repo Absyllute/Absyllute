@@ -5,12 +5,12 @@
 
 <h2 align="center"> About Me </h2>
 <p align="center">
-Software Engineer focusing mainly on mobile app development with Flutter while occasionaly trying out languages like Rust and C++. I first started programming around 2021 - 2022, but only really locked in from late from 2024 until current year. My main focus at the momnet is learning Kotlin and Jetpack Compose
+Software Engineer focusing mainly on mobile app development with Flutter while occasionally trying out languages like Rust and C++. I first started programming around 2021 - 2022, but only really locked in from late from 2024 until current year. My main focus at the moment is learning Kotlin and Jetpack Compose
 </p>
 
 <h2 align="center"> What am I working on? </h2>
 <p align="center">
-  A "tiny" little side-project 😉
+  Learning Discord bot development
 </p>
    
 <h2 align="center"> Contact Me: </h2>
