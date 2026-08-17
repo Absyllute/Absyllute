@@ -10,7 +10,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <h2 align="center"> What am I working on? </h2>
 <p align="center">
-  Learning Discord bot development
+  Leaning HTML and CSS because I just bought https://absyllute.com
 </p>
    
 <h2 align="center"> Contact Me: </h2>
@@ -45,8 +45,9 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <h2 align="center"> Cool Stats! </h2>
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=absyllute&layout=compact&theme=radical&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=ffffff&langs_count=8"/>
+  <img height="240em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Absyllute&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Absyllute&langs_count=4&theme=transparent"/>
 </p>
+
 
 ### Side Projects
 A focus app called "Lock In". You set a timer, and put your phone face-down (That's all I'm saying).
