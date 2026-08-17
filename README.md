@@ -16,7 +16,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 <h2 align="center"> Contact Me: </h2>
 
 <p align="center">
-  <a href="mailto:absyllute@gmail.com">
+  <a href="mailto:contact@absyllute.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://discord.com/users/1442541076870070386">
