@@ -10,7 +10,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <h2 align="center"> What am I working on? </h2>
 <p align="center">
-  Leaning HTML and CSS because I just bought https://absyllute.com
+  Using discord.py to make discord bots (my phone broke 💔)
 </p>
    
 <h2 align="center"> Contact Me: </h2>
