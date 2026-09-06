@@ -33,7 +33,7 @@
 
 .navbar {
     width: 100%;
-    background-color: var(--on-background);
+    background-color: var(--bg-colour);
     backdrop-filter: blur(12px);
     margin-bottom: 12px;
     border-bottom: 1px solid var(--border-colour);
@@ -68,10 +68,11 @@
 }
 
 .nav-links li a:hover {
-    background-color: color-mix(in srgb, var(--accent-colour) 50%, transparent);
+    background-color: var(--on-background);
     border-radius: 32px;
     color: white;
-    box-shadow: 0px 0px 10px var(--accent-glow);
+    box-shadow: 0px 0px 10px var(--on-background);
+    cursor: pointer;
 }
 
 .navbar-buttons {
