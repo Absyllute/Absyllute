@@ -1,3 +1,19 @@
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg-colour: #f0f2ff;
+        --on-background: #e1e5f8;
+        --border-colour: #c7ceea;
+
+        /* Typography */
+        --text-colour: #474f6e;
+        --text-heading: #121629;
+
+        /* Accents */
+        --accent-colour: #6666ff;
+        --accent-hover: #4d4dde;
+        --accent-glow: rgba(102, 102, 255, 0.25);
+    }
+}
 @media (prefers-color-scheme: dark) {
     :root {
         --bg-colour: #0b0d18;
