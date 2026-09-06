@@ -1,9 +1,63 @@
 .navbar {
+    width: 100%;
     background-color: rgba(255, 255, 255, 0.25);
     backdrop-filter: blur(12px);
+    margin-bottom: 12px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: 700;
+    color: aqua;
+    letter-spacing: 1px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 32px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.nav-links li a:hover {
+    background-color: aquamarine;
+    border-radius: 32px;
+    color: white;
+    box-shadow: 0px 0px 10px aquamarine;
+}
+
+.navbar-buttons {
+    display: flex;
+}
+
+.btn1 {
+    background-color: aquamarine;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 24px;
+    padding: 12px;
+    transition: 0.3s;
+}
+
+.btn1:hover {
+    box-shadow: 0px 0px 10px aquamarine;
+    cursor: pointer;
+    border-radius: 12px;
 }
 
 body {
-    background-image: linear-gradient(black, white);
     background-position: center;
 }
