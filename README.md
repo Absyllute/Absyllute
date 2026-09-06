@@ -31,7 +31,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,androidstudio,vscode,git,github,idea,vscodium,vim" />
+    <img src="https://skillicons.dev/icons?i=arch,androidstudio,vscode,git,github,idea,linux,vscodium,vim" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ Software Engineer focusing mainly on mobile app development with Flutter while o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,md" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,bots,html,css,md" />
   </a>
 </p>
 
