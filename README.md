@@ -57,7 +57,7 @@
 <p align="center">
   <b>Environments & Dev Tools:</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,androidstudio,vscode,vscodium,pycharm,git,github,docker" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,androidstudio,vscode,vscodium,pycharm,git,github,docker,sqlite" alt="Tools" />
   </a>
 </p>
 
