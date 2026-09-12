@@ -27,7 +27,7 @@
 
 ### 🤖 PocketBot
 > *An automated Discord bot tailored for seamless Minecraft Discord server and SMP management.*
-- **Tech:** Python, discord.py.
+- **Tech:** Python, discord.py, Rust backend, SQLite.
 - **Key Feature:** Makes Minecraft discord server management easier.
 - **Link:** https://github.com/Absyllute/PocketBot
 
