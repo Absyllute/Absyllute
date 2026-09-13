@@ -6,7 +6,7 @@
 
 <p align="center">
   A Software Engineer specializing in cross-platform mobile application development with <b>Flutter & Dart</b>.<br> 
-  Currently diving into <b>Discord bot development</b> and using <b>Rust</b> to make database solutions for my bots.
+  Currently diving into <b>Discord bot development</b> and using <b>Rust</b> to make high-performance backend and database solutions for my bots.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ---
 
 ### 🤖 PocketBot
-> *An automated Discord bot tailored for seamless Minecraft Discord server and SMP management.*
+> *An Discord bot tailored for seamless Minecraft Discord server and SMP management.*
 - **Tech:** Python, discord.py, Rust backend, SQLite.
 - **Key Feature:** Makes Minecraft discord server management easier.
 - **Link:** https://github.com/Absyllute/PocketBot
@@ -50,14 +50,14 @@
 <p align="center">
   <b>Languages & Frameworks:</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,python,rust,html,css,md" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,rust" alt="Languages and Frameworks" />
   </a>
 </p>
 
 <p align="center">
   <b>Environments & Dev Tools:</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,androidstudio,vscode,vscodium,pycharm,git,github,docker,sqlite" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=arch,androidstudio,vscode,pycharm,git,github,sqlite" alt="Tools" />
   </a>
 </p>
 
