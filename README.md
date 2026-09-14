@@ -21,7 +21,7 @@
 > *A minimalist focus app that enforces productivity by tracking device orientation. Currently still in development*
 - **Tech:** Flutter, Dart, Accelerometer Sensor APIs, App Blocking APIs
 - **Key Feature:** Detects when your device is placed face-down to automatically start and maintain focus sessions, earning FocusPoints in the process.
-- **Link:** closed source while I work on monetization
+- **Status:** closed source while I work on monetization
 
 ---
 
@@ -29,7 +29,7 @@
 > *An Discord bot tailored for seamless Minecraft Discord server and SMP management.*
 - **Tech:** Python, discord.py, Rust backend, SQLite.
 - **Key Feature:** Makes Minecraft discord server management easier.
-- **Link:** https://github.com/Absyllute/PocketBot
+- **Status:** In development, repo: https://github.com/Absyllute/PocketBot
 
 </div>
 
