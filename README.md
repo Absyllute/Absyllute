@@ -15,23 +15,33 @@
 
 <h2 align="center"> 🛠️ Featured Projects 🛠️ </h2>
 
-<div align="center">
-
-### 📱 LockIn
-> *A minimalist focus app that enforces productivity by tracking device orientation. Currently still in development*
-- **Tech:** Flutter, Dart, Accelerometer Sensor APIs, App Blocking APIs
-- **Key Feature:** Detects when your device is placed face-down to automatically start and maintain focus sessions, earning FocusPoints in the process.
-- **Status:** closed source while I work on monetization
-
----
-
-### 🤖 PocketBot
-> *An Discord bot tailored for seamless Minecraft Discord server and SMP management.*
-- **Tech:** Python, discord.py, Rust backend, SQLite.
-- **Key Feature:** Makes Minecraft discord server management easier.
-- **Status:** In development, repo: https://github.com/Absyllute/PocketBot
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 LockIn</h3>
+      <p align="center"><b>Flip your phone face down to start focus sessions</b></p>
+      <hr>
+      <ul>
+        <li><b>Architecture:</b> Mobile app built with Flutter & Dart, integrating low-level hardware sensor APIs (accelerometers) for real-time orientation tracking.</li>
+        <li><b>Engineering:</b> Implemented native device state monitoring, custom timer logic, and local state management to enforce distraction-free focus sessions.</li>
+        <li><b>Stack:</b> <code>Flutter</code>, <code>Dart</code>, <code>Hardware APIs</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 PocketBot</h3>
+      <p align="center"><b>Discord bot for managing Minecraft servers and SMPs</b></p>
+      <hr>
+      <ul>
+        <li><b>Architecture:</b> Async Python Discord bot powered by a native Rust backend compiled via PyO3 for high-throughput database operations.</li>
+        <li><b>Engineering:</b> Designed SQLite persistence layer in Rust to execute concurrent queries with minimal overhead and strict type safety.</li>
+        <li><b>Stack:</b> <code>Python</code>, <code>discord.py</code>, <code>Rust (PyO3)</code>, <code>SQLite</code></li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Absyllute/PocketBot"><b>[ View Codebase ]</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center"> 📫 Contact Me </h2>
 
