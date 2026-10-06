@@ -73,8 +73,15 @@
 
 <h2 align="center"> 📊 GitHub Analytics </h2>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Absyllute&langs_count=5&theme=transparent" alt="Top Languages" />
-
-  <img src="https://github-stats-extended.vercel.app/api?username=Absyllute&show_icons=true&include_all_commits=true&theme=dark_github" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Absyllute&langs_count=6&theme=transparent" height="380" alt="Top Languages" />
+    </td>
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Absyllute&show_icons=true&include_all_commits=true&theme=dark_github" height="185" alt="GitHub Stats" />
+      <br>
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=absyllute&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D" height="185" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
