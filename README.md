@@ -75,4 +75,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Absyllute&langs_count=5&theme=transparent" alt="Top Languages" />
+
+  <img src="https://github-stats-extended.vercel.app/api?username=Absyllute&show_icons=true&include_all_commits=true&theme=dark_github" />
 </p>
