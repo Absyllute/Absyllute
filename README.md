@@ -5,12 +5,11 @@
 <h2 align="center"> About Me </h2>
 
 <p align="center">
-  A Software Engineer specializing in cross-platform mobile application development with <b>Flutter & Dart</b>.<br> 
-  Currently diving into <b>Discord bot development</b> and using <b>Rust</b> to make high-performance backend and database solutions for my bots.
+  A Software Engineer specializing in cross-platform mobile app dev with <b>Flutter & Dart</b>, who only has time to code over the weekends.<br> Currently working on my "<i>flagship</i>" project called LockIn...
 </p>
 
 <p align="center">
-  <sub><i>"I use Arch btw (Hyprland too) ✌️"</i></sub>
+  <sub><i>"I use Arch btw ✌️"</i></sub>
 </p>
 
 <h2 align="center"> 🛠️ Featured Projects 🛠️ </h2>
