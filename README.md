@@ -25,6 +25,9 @@
         <li><b>Engineering:</b> Implemented native device state monitoring, custom timer logic, and local state management to enforce distraction-free focus sessions.</li>
         <li><b>Stack:</b> <code>Flutter</code>, <code>Dart</code>, <code>Hardware APIs</code></li>
       </ul>
+      <p align="center">
+        <a href="https://lockin.absyllute.com"><b>[ View Website ]</b></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 PocketBot</h3>
